@@ -1,0 +1,7 @@
+db:
+  host: "localhost"
+  port: "5432"
+  name: "go_crawler"
+  username: "postgres"
+  password: "postgres"
+  ssl_mode: "disable"
